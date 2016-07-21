@@ -16,7 +16,7 @@ The purpose of this component is;
 
 This component has following dependencies.
 
-* [CMake](http://zeromq.org/) (for building project)
+* [CMake](https://cmake.org/) (for building this component)
 * [lcov](http://ltp.sourceforge.net/coverage/lcov.php) (for generating HTML coverage report)
 
 and should be able to build and run in any Linux environment.
